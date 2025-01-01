@@ -1,3 +1,4 @@
 SUHAS NR
 AIT
 BENGALURU
+college
