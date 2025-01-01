@@ -2,4 +2,3 @@ SUHAS NR
 AIT
 BENGALURU
 college
-ABC
